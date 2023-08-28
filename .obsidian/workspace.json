@@ -8,21 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "8637530f3a15392a",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Technology Map.canvas",
-                "viewState": {
-                  "x": 22.319999999999997,
-                  "y": 0,
-                  "zoom": 0
-                }
-              }
-            }
-          },
-          {
             "id": "8b4773980d4962fe",
             "type": "leaf",
             "state": {
@@ -76,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "hypothes.is.md",
+                "file": "Tools/hypothes.is.md",
                 "mode": "source",
                 "source": false
               }
@@ -88,6 +73,30 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "Tools/Zotero.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0d512b892eff787a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tools/scite.ai.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2427ba2a2e7de312",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "_templates/tool.md",
                 "mode": "source",
                 "source": false
@@ -95,7 +104,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -222,17 +231,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "da2816cde9b0bfc3",
+  "active": "2427ba2a2e7de312",
   "lastOpenFiles": [
-    "README.md",
-    "Tools/Obsidian.md",
-    "_templates/tool.md",
-    "_templates/source-note.md",
-    "hypothes.is.md",
-    "Tools/WordPress.md",
+    "Tools/litmaps.ai.md",
+    "Tools/scite.ai.md",
     "Tools/Zotero.md",
-    "Tools",
+    "Tools/WordPress.md",
+    "Tools/Obsidian.md",
+    "Tools/hypothes.is.md",
+    "_templates/tool.md",
+    "VR Diagram.canvas",
     "Technology Map.canvas",
+    "README.md",
+    "_templates/source-note.md",
+    "Tools",
     "nieminenDesigningDigitalAuthentic2022.md",
     "nieminenDesigningDigitalAuthentic2022.pdf.md",
     "Unit Name.md",

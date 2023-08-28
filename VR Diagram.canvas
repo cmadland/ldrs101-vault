@@ -1,0 +1,12 @@
+{
+	"nodes":[
+		{"type":"text","text":"# Resident","id":"8dfc9cfab31f575a","x":-445,"y":-480,"width":185,"height":60},
+		{"type":"text","text":"# Visitor","id":"00592fc25fb35d33","x":-420,"y":320,"width":145,"height":60},
+		{"type":"text","text":"# Professional","id":"9b78f760cba2b90f","x":20,"y":-100,"width":221,"height":60},
+		{"type":"text","text":"# Personal","id":"2b8b118b0f5eea52","x":-880,"y":-100,"width":177,"height":60}
+	],
+	"edges":[
+		{"id":"41440de3c0858b4f","fromNode":"8dfc9cfab31f575a","fromSide":"bottom","toNode":"00592fc25fb35d33","toSide":"top","fromEnd":"arrow"},
+		{"id":"cbcbd090d7520523","fromNode":"9b78f760cba2b90f","fromSide":"left","toNode":"2b8b118b0f5eea52","toSide":"right","fromEnd":"arrow"}
+	]
+}
