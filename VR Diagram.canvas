@@ -3,7 +3,13 @@
 		{"type":"text","text":"# Resident","id":"8dfc9cfab31f575a","x":-445,"y":-480,"width":185,"height":60},
 		{"type":"text","text":"# Visitor","id":"00592fc25fb35d33","x":-420,"y":320,"width":145,"height":60},
 		{"type":"text","text":"# Professional","id":"9b78f760cba2b90f","x":20,"y":-100,"width":221,"height":60},
-		{"type":"text","text":"# Personal","id":"2b8b118b0f5eea52","x":-880,"y":-100,"width":177,"height":60}
+		{"type":"text","text":"# Personal","id":"2b8b118b0f5eea52","x":-880,"y":-100,"width":177,"height":60},
+		{"id":"d8daf233d18affce","type":"file","file":"Tools/hypothes.is.md","x":-760,"y":-360,"width":232,"height":50,"color":"6"},
+		{"id":"5bda22a4143c70b9","type":"file","file":"Tools/litmaps.ai.md","x":-20,"y":-360,"width":193,"height":57,"color":"2"},
+		{"id":"263e4cee96d4ccf6","type":"file","file":"Tools/Obsidian.md","x":45,"y":270,"width":175,"height":80,"color":"4"},
+		{"id":"252b326df9c46850","type":"file","file":"Tools/scite.ai.md","x":11,"y":-280,"width":162,"height":60,"color":"2"},
+		{"id":"5900894ea50cd493","type":"file","file":"Tools/Zotero.md","x":20,"y":-20,"width":140,"height":60,"color":"4"},
+		{"id":"48e8a83b159751d3","type":"file","file":"Tools/WordPress.md","x":-224,"y":-253,"width":204,"height":66,"color":"2"}
 	],
 	"edges":[
 		{"id":"41440de3c0858b4f","fromNode":"8dfc9cfab31f575a","fromSide":"bottom","toNode":"00592fc25fb35d33","toSide":"top","fromEnd":"arrow"},

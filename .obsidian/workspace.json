@@ -87,9 +87,9 @@
               "state": {
                 "file": "VR Diagram.canvas",
                 "viewState": {
-                  "x": -319.5,
-                  "y": -5.845420326223317,
-                  "zoom": -0.7472604593489236
+                  "x": -253.1418978102194,
+                  "y": -249.07430656934292,
+                  "zoom": -0.20270178965771254
                 }
               }
             }
@@ -171,7 +171,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "VR Diagram.canvas",
+                "file": "Tools/WordPress.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -188,7 +188,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "VR Diagram.canvas",
+                "file": "Tools/WordPress.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -211,7 +211,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "VR Diagram.canvas"
+                "file": "Tools/WordPress.md"
               }
             }
           },
@@ -244,6 +244,8 @@
   },
   "active": "0d512b892eff787a",
   "lastOpenFiles": [
+    "VR Diagram.canvas",
+    "Tools/hypothes.is.md",
     "HOME.md",
     "README.md",
     "_templates/tool.md",
@@ -252,8 +254,6 @@
     "Tools/WordPress.md",
     "Tools/Obsidian.md",
     "Tools/litmaps.ai.md",
-    "Tools/hypothes.is.md",
-    "VR Diagram.canvas",
     "Technology Map.canvas",
     "_templates/source-note.md",
     "Tools",
