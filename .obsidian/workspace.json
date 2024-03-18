@@ -13,8 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sample.md",
+                "file": "HOME.md",
                 "mode": "source",
+                "backlinks": true,
                 "source": false
               }
             }
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sample.md",
+                "file": "HOME.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "sample.md",
+                "file": "HOME.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "sample.md"
+                "file": "HOME.md"
               }
             }
           },
@@ -135,7 +136,9 @@
             "state": {
               "type": "all-properties",
               "state": {
-                "sortOrder": "frequency"
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
               }
             }
           }
@@ -159,11 +162,15 @@
   },
   "active": "5f3ad37072e69453",
   "lastOpenFiles": [
-    "Articles/article1.md.md",
     "sample.md",
+    "HOME.md",
+    "README.md",
+    "VR Diagram.canvas",
+    "Articles/article1.md.md",
     "_templates/topic-note.md",
-    "Notes/2023-11-23.md",
+    "_templates/tool.md",
     "_templates/source-note.md",
+    "Notes/2023-11-23.md",
     "Notes",
     "Tools/Zotero.md",
     "Tools/hypothes.is.md",
@@ -171,10 +178,6 @@
     "Tools/WordPress.md",
     "Tools/scite.ai.md",
     "Tools/litmaps.ai.md",
-    "_templates/tool.md",
-    "VR Diagram.canvas",
-    "HOME.md",
-    "README.md",
     "Technology Map.canvas",
     "Tools",
     "nieminenDesigningDigitalAuthentic2022.md",
