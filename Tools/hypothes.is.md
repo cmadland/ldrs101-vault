@@ -1,10 +1,8 @@
 ---
 tool name: hypothes.is
-rating: 4/5
+use rating: 4/5
 url: https://hypothes.is
 ---
-
-
 > [!tldr] Summary
 > Hypothes.is allows me to annotate PDFs in my Obsidian workspaces for both work and school.
 
@@ -23,3 +21,6 @@ url: https://hypothes.is
 > 	- data is portable
 > 	- users have a right to have data erased
 
+> [!notes]
+
+[[Zotero]]

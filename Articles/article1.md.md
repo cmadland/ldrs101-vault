@@ -4,13 +4,13 @@ DOI:
 Date:
   "{ date | format (\"YYYY\") }": 
 Rating: 0/5
-Title: "{{title}}"
+Title: article1.md
 ShortSummary: "{{SUMMARY}}"
 tags:
 ---
+{{TAGS}}
 
-
-#### {{title}}
+#### article1.md
 {{author}}
 
 {{abstract}}

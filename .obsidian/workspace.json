@@ -4,108 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "4f5ff0ce5839ad17",
+        "id": "f95ff1a246b60a52",
         "type": "tabs",
         "children": [
           {
-            "id": "8b4773980d4962fe",
+            "id": "5f3ad37072e69453",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tools/Zotero.md",
+                "file": "sample.md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "3f609a92afcfb88d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Tools/Obsidian.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "238b8971b6337b25",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Tools/Zotero.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "dc77297d4146f129",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Tools/WordPress.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e7e181f7bd815812",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Tools/hypothes.is.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "da2816cde9b0bfc3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Tools/Zotero.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0d512b892eff787a",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "VR Diagram.canvas",
-                "viewState": {
-                  "x": -253.1418978102194,
-                  "y": -249.07430656934292,
-                  "zoom": -0.20270178965771254
-                }
-              }
-            }
-          },
-          {
-            "id": "e2a17ac9a139223f",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.4.14"
               }
             }
           }
-        ],
-        "currentTab": 6
+        ]
       }
     ],
     "direction": "vertical"
@@ -171,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tools/WordPress.md",
+                "file": "sample.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -188,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tools/WordPress.md",
+                "file": "sample.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -211,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tools/WordPress.md"
+                "file": "sample.md"
               }
             }
           },
@@ -239,28 +153,34 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "3d-graph:3D Graph": false
     }
   },
-  "active": "0d512b892eff787a",
+  "active": "5f3ad37072e69453",
   "lastOpenFiles": [
-    "VR Diagram.canvas",
+    "Articles/article1.md.md",
+    "sample.md",
+    "_templates/topic-note.md",
+    "Notes/2023-11-23.md",
+    "_templates/source-note.md",
+    "Notes",
+    "Tools/Zotero.md",
     "Tools/hypothes.is.md",
+    "Tools/Obsidian.md",
+    "Tools/WordPress.md",
+    "Tools/scite.ai.md",
+    "Tools/litmaps.ai.md",
+    "_templates/tool.md",
+    "VR Diagram.canvas",
     "HOME.md",
     "README.md",
-    "_templates/tool.md",
-    "Tools/scite.ai.md",
-    "Tools/Zotero.md",
-    "Tools/WordPress.md",
-    "Tools/Obsidian.md",
-    "Tools/litmaps.ai.md",
     "Technology Map.canvas",
-    "_templates/source-note.md",
     "Tools",
     "nieminenDesigningDigitalAuthentic2022.md",
     "nieminenDesigningDigitalAuthentic2022.pdf.md",
     "Unit Name.md",
-    "Resources",
+    "Articles",
     "unit 2.md",
     "_templates",
     "2023-07-12.md"

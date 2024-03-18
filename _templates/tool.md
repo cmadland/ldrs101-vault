@@ -1,6 +1,7 @@
 ---
 tool name: 
-rating:
+use rating: " /5"
+privacy rating: " /5"
 url:
 ---
 
@@ -14,3 +15,4 @@ url:
 > - How are those data used by the developers of the tool?
 > - Who owns the rights to artifacts created with the tool?
 
+> [!notes]
