@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HOME.md",
+                "file": "_templates/topic-note.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HOME.md",
+                "file": "_templates/topic-note.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HOME.md",
+                "file": "_templates/topic-note.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HOME.md"
+                "file": "_templates/topic-note.md"
               }
             }
           },
@@ -151,25 +151,27 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "pdf-plus:PDF++: Toggle auto-copy": false,
+      "pdf-plus:PDF++: Toggle auto-focus": false,
+      "pdf-plus:PDF++: Toggle auto-paste": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "3d-graph:3D Graph": false
+      "command-palette:Open command palette": false
     }
   },
   "active": "5f3ad37072e69453",
   "lastOpenFiles": [
-    "sample.md",
-    "HOME.md",
-    "README.md",
-    "VR Diagram.canvas",
-    "Articles/article1.md.md",
-    "_templates/topic-note.md",
     "_templates/tool.md",
     "_templates/source-note.md",
+    "Articles/article1.md.md",
+    "HOME.md",
+    "VR Diagram.canvas",
+    "README.md",
+    "sample.md",
+    "_templates/topic-note.md",
     "Notes/2023-11-23.md",
     "Notes",
     "Tools/Zotero.md",
